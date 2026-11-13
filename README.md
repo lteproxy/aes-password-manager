@@ -1,8 +1,8 @@
-# AES Password Manager
+# AES password manager
 
-A local command-line password manager written in C++.
+a local command-line password manager written in C++
 
-The program stores entries in an encrypted vault file, protects the vault with a master password, and includes a password generator. The implementation uses Botan 3.11.1, which is vendored in this repository.
+The program stores entries in an encrypted vault file, protects the vault with a master password, and includes a password generator. the implementation uses Botan 3.11.1, which is vendored in this repository.
 
 ## Features
 
